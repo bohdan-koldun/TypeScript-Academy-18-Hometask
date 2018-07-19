@@ -1,5 +1,5 @@
 # TypeScript-Academy-18-Hometask
-## Instalation
+## Installation
 npm install<br />
 npm run start<br />
 localhost:4040
