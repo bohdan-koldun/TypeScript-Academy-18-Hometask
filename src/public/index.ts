@@ -12,7 +12,7 @@ export default class Game {
     }
 
     battle(...points: number[]): void {
-        // call fight function, use spread operator
+        // call fight function, use rest operator
         fight(this.fighter, this.improvedFighter, ...points);
     }
 }

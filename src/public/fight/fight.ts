@@ -1,4 +1,4 @@
-// // import Fighter class and ImprovedFighter class
+// import Fighter class and ImprovedFighter class
 import Fighter from './fighter';
 import ImprovedFighter from './improvedFighter';
 

@@ -72,7 +72,7 @@ export default class Fighter implements IFighter {
 
     public set Power(value: number) {
         //power can not be less than zero
-        if (value > 0) {
+        if (value >= 0) {
             this._power = value;
         }
         else {
